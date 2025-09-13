@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend Developer, Python Scripts And an Ethical Hacker Writer from India</h3>
+<h3 align="center">A passionate Full Stack Developer, Python Scripts Writer And an Ethical Hacker from India</h3>
 
 <p align="left"> <a href="https://twitter.com/user_synax" target="blank"><img src="https://img.shields.io/twitter/follow/user_synax?logo=twitter&style=for-the-badge" alt="user_synax" /></a> </p>
 
