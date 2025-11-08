@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate Full Stack Developer, Python Scripts Writer And an Ethical Hacker from India</h3>
 
 <p align="left"> <a href="https://twitter.com/user_synax" target="blank"><img src="https://img.shields.io/twitter/follow/user_synax?logo=twitter&style=for-the-badge" alt="user_synax" /></a> </p>
@@ -27,4 +27,78 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=user-synax&show_icons=true&locale=en&layout=compact" alt="user-synax" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user-synax&show_icons=true&locale=en" alt="user-synax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user-synax&show_icons=true&locale=en" alt="user-synax" /></p> -->
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://instagram.com/user.__.ayush" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/ayush_developer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=user-synax.user-synax&"  />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Ayush from India<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Full Stack Web Dev<br>- ⚡ In my free time I usually Play Video Games</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=user-synax&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
