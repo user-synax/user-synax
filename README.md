@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋  I'm Ayush</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Ayush from India<br><br>- 🔭 Currently I’m Learning Full Stack Web Dev and CyberSecurity<br>- 📚 I'm working on:  https://github.com/user-synax/Stock-Ease<br>- ⚡ In my free time, I Usually Play Video games</p>
+<p align="left">I'm a FullStack Learner from India<br><br>- 🔭 Currently I’m Learning Full Stack Web Dev and CyberSecurity<br>- 📚 I'm working on:  https://github.com/user-synax/Stock-Ease<br>- ⚡ In my free time, I Usually Play Video games</p>
 
 ###
 
