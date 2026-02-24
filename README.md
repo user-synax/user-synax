@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <!-- <img width="12" /> -->
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/EJS-995151?logo=ejs&logoColor=white&style=for-the-badge" height="40"/>
 </div>
 
 ###
