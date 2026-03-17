@@ -84,13 +84,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=user-synax&theme=redical&area=false" height="150" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=user-synax&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
