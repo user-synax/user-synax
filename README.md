@@ -1,7 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hey%20i'm%20ayush%20👋&reversal=false&textBg=false&animation=twinkling&desc=Full%20Stack%20Learner%20|%20cybersecuirty%20Explorer%20|%20open%20source%20builder&descAlignY=68&descSize=18&fontColor=fff)
-
+<a href="https://www.github.com/user-synax" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/user-synax?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br> <br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat-square)](https://t.me/user_synax)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/user.__.ayush)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](#)
