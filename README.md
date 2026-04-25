@@ -135,15 +135,16 @@ type Developer struct {
 **✅ &nbsp;I Know**
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,git&theme=dark&perline=7)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=kali,bash,linux,figma,postman,vscode,vercel&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,npm,nodejs,express,pnpm,mongodb,python,git&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cloudflare,netlify,kali,bash,linux,figma,postman,vite,webstorm,vscode,vercel&theme=dark&perline=11)](https://skillicons.dev)
 
 <br/>
+
 
 **🔥 &nbsp;Currently Learning**
 
 [![Learning](https://skillicons.dev/icons?i=docker,ts,postgres,redis,bun,graphql,aws&theme=dark&perline=7)](https://skillicons.dev)
-[![Learning](https://skillicons.dev/icons?i=turborepo,kubernetes,go&theme=dark&perline=7)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,go&theme=dark&perline=2)](https://skillicons.dev)
 
 </div>
 
