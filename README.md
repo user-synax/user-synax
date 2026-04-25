@@ -216,7 +216,7 @@ type Developer struct {
 
 <div align="center">
 
-![3D Contrib](https://raw.githubusercontent.com/user-synax/user-synax/main/profile-3d-contrib/profile-night-green.svg)
+![3D Contrib](https://raw.githubusercontent.com/user-synax/user-synax/main/profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
