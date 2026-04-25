@@ -77,7 +77,7 @@ type Developer struct {
 }
 ```
 
-- 🔭 &nbsp;Working on **[CampusX](https://campus-x-rho.vercel.app)** — India's first verified student social network
+- 🔭 &nbsp;Founder and solo developer of **[CampusX](https://campus-x-rho.vercel.app)** — India's first verified student social network
 - 🌱 &nbsp;Learning **TypeScript · PostgreSQL · Docker · System Design**
 - 🛡️ &nbsp;Security side: **CTF challenges · Kali Linux · eJPT (planned)**
 - 💡 &nbsp;Fun fact: My best code was written past midnight
