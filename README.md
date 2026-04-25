@@ -212,13 +212,11 @@ type Developer struct {
 <!-- ║                    TROPHIES                                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### `> trophy --show-all`
-
-<br/>
+### `> contrib --3d`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=user-synax&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+![3D Contrib](https://raw.githubusercontent.com/user-synax/user-synax/main/profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
