@@ -60,7 +60,7 @@
 <!-- ║                    ABOUT ME                                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=user-synax&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020c07&title_color=3ECF8E&icon_color=3ECF8E&text_color=86efac&ring_color=3ECF8E&include_all_commits=true&count_private=true&custom_title=⚡+Ayush's+Stats"/>
+<!-- <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=user-synax&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020c07&title_color=3ECF8E&icon_color=3ECF8E&text_color=86efac&ring_color=3ECF8E&include_all_commits=true&count_private=true&custom_title=⚡+Ayush's+Stats"/> -->
 
 ### `> whoami`
 
