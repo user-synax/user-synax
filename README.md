@@ -270,22 +270,6 @@ type Developer struct {
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              DEV JOKE + QUOTE                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-[![Readme Jokes](https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=%23020c07&textColor=%233ECF8E&questionColor=%2386efac&punchlineColor=%2322c55e&borderColor=%23052e16)](https://github.com/ABSphreak/readme-jokes)
-
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    FOOTER                                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
@@ -294,12 +278,6 @@ type Developer struct {
 <sub>
 <b>self-taught &nbsp;·&nbsp; solo builder &nbsp;·&nbsp; shipping real things &nbsp;·&nbsp; delhi, india</b>
 </sub>
-
-<br/><br/>
-
-[![Telegram](https://img.shields.io/badge/-t.me/user__synax-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/user_synax)
-[![Instagram](https://img.shields.io/badge/-user.__.ayush-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/user.__.ayush)
-[![Portfolio](https://img.shields.io/badge/-usersynax.netlify.app-3ECF8E?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117)](https://usersynax.netlify.app)
 
 </div>
 
