@@ -4,6 +4,9 @@
 
 <div align="center">
 
+<img width=full src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
+<hr>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020c07,30:052e16,65:064e26,100:0a6635&text=Hey%2C%20I'm%20Ayush%20%F0%9F%91%8B&fontAlign=50&fontAlignY=42&fontSize=52&fontColor=3ECF8E&animation=fadeIn&stroke=3ECF8E&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20Security%20Learner&descSize=18&descAlignY=63&descColor=86efac)
 
 <!-- ════════════ ANIMATED TYPING ════════════ -->
@@ -29,7 +32,6 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
