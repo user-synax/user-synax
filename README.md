@@ -25,6 +25,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/fcc7e67e-5154-42c9-a0a0-3669149e7bba/thumbnail" >
+</p>
+
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
