@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-usersynax.me-3ECF8E?style=for-the-badge&labelColor=052e16&logoColor=3ECF8E)](https://usersynax.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-usersynax.me-3ECF8E?style=for-the-badge&labelColor=052e16&logoColor=3ECF8E)](https://usersynax.me)
 
 </td>
 <td align="center">
@@ -83,7 +83,7 @@ type Developer struct {
 }
 ```
 
-- 🔭 &nbsp;Founder and solo developer of **[CampusX](https://campus-x-rho.vercel.app)** — India's first verified student social network
+- 🔭 &nbsp;Founder and solo developer of **[CampusZen](https://campuszen.vercel.app)** — India's first verified student social network
 - 🌱 &nbsp;Learning **TypeScript · PostgreSQL · Docker · System Design**
 - 🛡️ &nbsp;Security side: **CTF challenges · Kali Linux · eJPT (planned)**
 - 💡 &nbsp;Fun fact: My best code was written past midnight
@@ -101,30 +101,7 @@ type Developer struct {
 <!-- ║                    FEATURED PROJECT                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### `> cat ~/portfolio`
-
 <br/>
-
-<div align="center">
-
-<a href="https://usersynax.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=user-synax&repo=campusX&theme=chartreuse-dark&hide_border=true&bg_color=020c07&title_color=3ECF8E&icon_color=3ECF8E&text_color=86efac&description_lines_count=2" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🌐 | **[usersynax.netlify.app](https://usersynax.netlify.app)** — My personal portfolio site. Projects, skills, and contact. Built with a deep space / cosmic dev aesthetic. |
-|---|---|
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
 
 <br/>
 
@@ -176,9 +153,6 @@ type Developer struct {
 </details>
 
 <br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
-
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
@@ -190,8 +164,6 @@ type Developer struct {
 <br/>
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-synax&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020c07&title_color=3ECF8E&text_color=86efac&langs_count=8&custom_title=Most+Used+Languages"/>
 &nbsp;&nbsp;
 <img height="175" src="https://streak-stats.demolab.com?user=user-synax&theme=dark&hide_border=true&background=020c07&stroke=052e16&ring=3ECF8E&fire=22c55e&currStreakLabel=3ECF8E&sideLabels=86efac&dates=4ade80&currStreakNum=ffffff&sideNums=ffffff"/>
 
@@ -203,7 +175,7 @@ type Developer struct {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user-synax&theme=github_dark&hide_border=true" height="140"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user-synax&theme=github_dark&hide_border=true" height="140"/>
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=user-synax&theme=dark" height="140"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user-synax&theme=github_dark&hide_border=true&utcOffset=5.5" height="140"/>
 
