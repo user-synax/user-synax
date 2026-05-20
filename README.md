@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-usersynax.netlify.app-3ECF8E?style=for-the-badge&labelColor=052e16&logoColor=3ECF8E)](https://usersynax.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-usersynax.me-3ECF8E?style=for-the-badge&labelColor=052e16&logoColor=3ECF8E)](https://usersynax.netlify.app)
 
 </td>
 <td align="center">
