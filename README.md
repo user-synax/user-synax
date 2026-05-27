@@ -24,11 +24,6 @@
 ![Status](https://img.shields.io/badge/STATUS-BUILDING-3ECF8E?style=for-the-badge&labelColor=052e16&logo=rocket&logoColor=3ECF8E)
 
 </div>
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/fcc7e67e-5154-42c9-a0a0-3669149e7bba/thumbnail" >
-</p>
-
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
