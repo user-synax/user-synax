@@ -1,166 +1,94 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     HERO BANNER                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
 
 <div align="center">
 
-<img width=full src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
-<hr>
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020c07,30:052e16,65:064e26,100:0a6635&text=Hey%2C%20I'm%20Ayush%20%F0%9F%91%8B&fontAlign=50&fontAlignY=42&fontSize=52&fontColor=3ECF8E&animation=fadeIn&stroke=3ECF8E&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20Security%20Learner&descSize=18&descAlignY=63&descColor=86efac)
-
-<!-- ════════════ ANIMATED TYPING ════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1000&color=3ECF8E&background=00000000&center=true&vCenter=true&multiline=false&width=620&lines=🚀+shipping+CampusX+before+college+ships+me;🔐+I+break+things+for+fun+%E2%80%94+it's+called+CTF;💀+git+commit+-m+%22it+works%2C+don't+ask+why%22;⚡+CSS%3A+where+I+go+to+feel+something;🌙+I+debug+at+2am.+The+bugs+understand.;☕+turning+chai+into+commits+since+2023;📦+npm+install+and+pray+%F0%9F%99%8F)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ════════════ VISITOR + STATUS BADGES ════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=user-synax&style=for-the-badge&color=052e16&label=PROFILE+VIEWS&labelColor=3ECF8E&abbreviated=true)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/user-synax?style=for-the-badge&logo=github&logoColor=3ECF8E&label=FOLLOWERS&color=052e16&labelColor=0d1117)](https://github.com/user-synax)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-BUILDING-3ECF8E?style=for-the-badge&labelColor=052e16&logo=rocket&logoColor=3ECF8E)
-
-</div>
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   SOCIAL LINKS                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-usersynax.me-3ECF8E?style=for-the-badge&labelColor=052e16&logoColor=3ECF8E)](https://usersynax.me)
-
-</td>
-<td align="center">
-
-[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/user_synax)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/user.__.ayush)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](#)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/user-synax)
-
-</td>
-</tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/usersynax.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usersynax.me)
+[![CampusZen Live](https://img.shields.io/badge/CampusZen_Live-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://campuszen.tech)
+[![Telegram](https://img.shields.io/badge/@user__synax-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user_synax)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user.__.ayush)
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
+---
 
-<br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    ABOUT ME                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+**`> whoami`**
 
-<!-- <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=user-synax&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020c07&title_color=3ECF8E&icon_color=3ECF8E&text_color=86efac&ring_color=3ECF8E&include_all_commits=true&count_private=true&custom_title=⚡+Ayush's+Stats"/> -->
-
-### `> whoami`
-
-```go
-type Developer struct {
-    Name     string   = "Ayush"
-    Location string   = "Delhi, India 🇮🇳"
-    Role     string   = "Full Stack Dev + Security Learner"
-    Stack    []string = ["Next.js", "MongoDB", "shadcn/ui"]
-    Status   string   = "Building CampusX 🚀"
-    Goal     string   = "FAANG-level product company"
-    Hobbies  []string = ["CTFs", "Ranked Queues", "2am bugs"]
-    OpenTo   string   = "Collabs, internships, interesting problems"
+```ts
+const ayush = {
+  role     : "Full Stack Dev + Security Learner",
+  location : "Delhi, India",
+  stack    : ["Next.js 15", "MongoDB", "shadcn/ui", "Tailwind"],
+  building : "CampusZen — verified student social network and synax-ecosystem [ synax formed from syntax 😁",
+  learning : ["TypeScript", "PostgreSQL", "System Design"],
+  security : ["PortSwigger", "OWASP Top 10", "CTFs", "eJPT planned"],
+  openTo   : "Internships · Collabs · Interesting problems",
 }
 ```
 
-- 🔭 &nbsp;Founder and solo developer of **[CampusZen](https://campuszen.vercel.app)** — India's first verified student social network
-- 🌱 &nbsp;Learning **TypeScript · PostgreSQL · Docker · System Design**
-- 🛡️ &nbsp;Security side: **CTF challenges · Kali Linux · eJPT (planned)**
-- 💡 &nbsp;Fun fact: My best code was written past midnight
-- 📬 &nbsp;Reach me: **[Telegram](https://t.me/user_synax)**
+- 🔭 &nbsp;Founder @ **[CampusZen](https://campuszen.tech)** — live, real users, built solo
+- 🛡️ &nbsp;Learning AppSec: PortSwigger Academy · OWASP · Kali Linux · Burp Suite
+- 🌱 &nbsp;Currently: TypeScript · PostgreSQL · System Design
+- 💡 &nbsp;Self-taught. No degree. Just shipped things.
 
 <br clear="right"/>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    FEATURED PROJECT                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<br/>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    SKILLS                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### `> cat ~/.skills`
+**`> ls ~/projects`**
 
 <br/>
 
 <div align="center">
 
-**✅ &nbsp;I Know**
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=github,npm,nodejs,express,pnpm,mongodb,python,git&theme=dark&perline=9)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=cloudflare,netlify,docker,kali,bash,linux,figma,postman,vite,webstorm,vscode,vercel&theme=dark&perline=11)](https://skillicons.dev)
-
-<br/>
-
-
-**🔥 &nbsp;Currently Learning**
-
-[![Learning](https://skillicons.dev/icons?i=ts,postgres,redis,bun,graphql,aws&theme=dark&perline=7)](https://skillicons.dev)
-[![Learning](https://skillicons.dev/icons?i=kubernetes,go&theme=dark&perline=2)](https://skillicons.dev)
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **[CampusZen](https://campuszen.tech)** | Verified student social network for India. College email + ID card verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
+| **[synax-docs](https://github.com/user-synax/synax-docs)** | Real-time collaborative doc editor. Multiplayer editing, presence awareness, persistent sync via dedicated Hocuspocus Node.js server | Next.js · Tiptap · Yjs · Hocuspocus · MongoDB | 🔨 WIP |
+| **[KitMint](https://kitmint.vercel.app)** | AI startup brand kit generator. Input your idea → get name, palette, typography, logo concept in seconds | Next.js · Groq · Tailwind · shadcn/ui | 🔨 WIP |
+| **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical doc translator for Indian patients. Upload prescription → plain language explanation in EN/HI | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
+| **[Couple Vault](https://couple-vault.vercel.app/)** | Private memory vault for couples. Media uploads, encrypted access, Cloudinary signed URLs | Next.js · MongoDB · Cloudinary | ✅ Live |
+| **[SwipeMeme](https://swipe-meme.vercel.app/)** | It's like a tinder but instead of profile you will swipe memes| Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
 
 </div>
 
-<br/>
+---
 
-<details>
-<summary><b>🧠 &nbsp;Why these learning picks?</b></summary>
-
-<br/>
-
-| Skill | Why |
-|---|---|
-| **TypeScript** | Non-negotiable for FAANG-level code quality. Strong typing = fewer 2am bugs. |
-| **PostgreSQL** | Relational DBs are table stakes. MongoDB is great but interviewers will ask. |
-| **Redis** | Caching, sessions, rate limiting — every production app needs it. |
-| **Docker** | "Works on my machine" stops being funny at interviews. |
-| **GraphQL** | Modern API layer — shows up constantly in product companies. |
-| **AWS** | Cloud fundamentals are expected. Start with EC2 + S3 + Lambda. |
-| **Go** | High-perf backend lang. Lightweight, fast, loved by infra teams at FAANG. |
-| **Kubernetes** | After Docker, this is the natural next step for production systems. |
-| **Turborepo** | You're already building monorepos (Nirmit UI). Learn the tooling properly. |
-
-</details>
-
-<br/>
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    STATS SECTION                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### `> git log --stat`
+**`> cat ~/.skills`**
 
 <br/>
 
 <div align="center">
-&nbsp;&nbsp;
-<img height="175" src="https://streak-stats.demolab.com?user=user-synax&theme=dark&hide_border=true&background=020c07&stroke=052e16&ring=3ECF8E&fire=22c55e&currStreakLabel=3ECF8E&sideLabels=86efac&dates=4ade80&currStreakNum=ffffff&sideNums=ffffff"/>
+
+**— Shipping with —**
+
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,mongodb,nodejs,express&theme=dark&perline=8)](https://skillicons.dev)
+
+**— Tooling —**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,cloudflare,pnpm,docker,figma,postman&theme=dark&perline=8)](https://skillicons.dev)
+
+**— Also used —**
+
+[![Skills](https://skillicons.dev/icons?i=linux,kali,bash,vscode,redis,python,netlify,vite&theme=dark&perline=8)](https://skillicons.dev)
+
+**— Learning —**
+
+[![Learning](https://skillicons.dev/icons?i=ts,postgres,redis,aws&theme=dark&perline=4)](https://skillicons.dev)
+
+</div>
+
+---
+
+**`> git log --stat`**
+
+<br/>
+
+<div align="center">
+
+<img height="150" src="https://streak-stats.demolab.com?user=user-synax&theme=transparent&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -168,88 +96,24 @@ type Developer struct {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user-synax&theme=github_dark&hide_border=true" height="140"/>
-&nbsp;
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=user-synax&theme=dark" height="140"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user-synax&theme=github_dark&hide_border=true&utcOffset=5.5" height="140"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=user-synax&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff15&hide_border=true&custom_title=Contribution+Graph&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    TROPHIES                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### `> contrib --3d`
-
-<div align="center">
-
-![3D Contrib](https://raw.githubusercontent.com/user-synax/user-synax/main/profile-3d-contrib/profile-green-animate.svg)
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    ACTIVITY GRAPH                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### `> watch -n1 git log --graph --oneline`
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=user-synax&bg_color=020c07&color=3ECF8E&line=22c55e&point=86efac&area=true&area_color=3ECF8E18&hide_border=true&custom_title=Ayush's+Contribution+Graph&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                 CONTRIBUTION SNAKE                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/user-synax/user-synax/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/user-synax/user-synax/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/user-synax/user-synax/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/user-synax/user-synax/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:3ECF8E,100:052e16&height=2&section=header)
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    FOOTER                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 <div align="center">
-
-<sub>
-<b>self-taught &nbsp;·&nbsp; solo builder &nbsp;·&nbsp; shipping real things &nbsp;·&nbsp; delhi, india</b>
-</sub>
-
+<sub><b>self-taught · solo builder · delhi, india · open to internships and collabs</b></sub>
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a6635,40:064e26,70:052e16,100:020c07&section=footer&animation=fadeIn)
