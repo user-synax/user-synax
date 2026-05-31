@@ -72,11 +72,11 @@ const ayush = {
 
 **— Also used —**
 
-[![Skills](https://skillicons.dev/icons?i=linux,kali,bash,vscode,redis,python,netlify,vite&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,kali,bash,vscode,bun,python,netlify,vite&theme=dark&perline=8)](https://skillicons.dev)
 
 **— Learning —**
 
-[![Learning](https://skillicons.dev/icons?i=ts,postgres,redis,aws&theme=dark&perline=4)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ts,postgres,redis,aws,go&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
