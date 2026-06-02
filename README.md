@@ -80,6 +80,21 @@ const ayush = {
 
 </div>
 
+<br>
+<hr>
+
+
+**`> GSSoC 2026`**
+<div align="center">
+
+  
+  <img width="150" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/b3b442ad-646a-4c82-9077-293ac0e0b881" />
+  <img width="150" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/6aeffccf-b746-43cf-8961-403e4f1fe84e" />
+  <img width="150" alt="gssoc-badge-discord_verified" src="https://github.com/user-attachments/assets/95f7f17a-4acd-479f-bce2-39e5af92c8a0" />
+  <img width="150"alt="gssoc-badge-profile_complete" src="https://github.com/user-attachments/assets/91e29f9a-bbf1-433c-9ca1-27f01080e7fd" />
+  <img width="150"alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/49c71757-2967-41fb-a677-0ec42e01e784" />
+</div>
+
 ---
 
 **`> git log --stat`**
