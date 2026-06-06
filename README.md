@@ -51,6 +51,7 @@ const ayush = {
 | **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical doc translator for Indian patients. Upload prescription → plain language explanation in EN/HI | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
 | **[Couple Vault](https://couple-vault.vercel.app/)** | Private memory vault for couples. Media uploads, encrypted access, Cloudinary signed URLs | Next.js · MongoDB · Cloudinary | ✅ Live |
 | **[SwipeMeme](https://swipe-meme.vercel.app/)** | It's like a tinder but instead of profile you will swipe memes| Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
+| **[snapbio](https://snapbio.usersynax.dev/)** | A single bio links web Page for all of your social media accounts| Next.js · MongoDB · Cloudinary · ShadCN UI | ✅ Live |
 
 </div>
 
