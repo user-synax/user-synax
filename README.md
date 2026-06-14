@@ -1,7 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
 
 <div align="center">
-
+ 
 [![Portfolio](https://img.shields.io/badge/usersynax.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usersynax.me)
 [![CampusZen Live](https://img.shields.io/badge/CampusZen_Live-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://campuszen.tech)
 [![Telegram](https://img.shields.io/badge/@user__synax-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user_synax)
