@@ -16,12 +16,12 @@
 
 **`> whoami`**
 
-```ts
+``` ts
 const ayush = {
   role     : "Full Stack Dev + Security Learner",
-  location : "Delhi, India",
+  location: "Delhi, India",
   stack    : ["Next.js 15", "MongoDB", "shadcn/ui", "Tailwind"],
-  building : "CampusZen — verified student social network and synax-ecosystem [ synax formed from syntax 😁",
+  building: "CampusZen — verified student social network and synax-ecosystem [ synax formed from syntax 😁",
   learning : ["TypeScript", "PostgreSQL", "System Design"],
   security : ["PortSwigger", "OWASP Top 10", "CTFs", "eJPT planned"],
   openTo   : "Internships · Collabs · Interesting problems",
@@ -50,8 +50,9 @@ const ayush = {
 | **[KitMint](https://kitmint.vercel.app)** | AI startup brand kit generator. Input your idea → get name, palette, typography, logo concept in seconds | Next.js · Groq · Tailwind · shadcn/ui | 🔨 WIP |
 | **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical doc translator for Indian patients. Upload prescription → plain language explanation in EN/HI | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
 | **[Couple Vault](https://couple-vault.vercel.app/)** | Private memory vault for couples. Media uploads, encrypted access, Cloudinary signed URLs | Next.js · MongoDB · Cloudinary | ✅ Live |
-| **[SwipeMeme](https://swipe-meme.vercel.app/)** | It's like a tinder but instead of profile you will swipe memes| Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
+| **[SwipeMeme](https://swipe-meme.vercel.app/)** | It's like Tinder, but instead of profiles, you will swipe memes| Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
 | **[snapbio](https://snapbio.usersynax.dev/)** | A single bio links web Page for all of your social media accounts| Next.js · MongoDB · Cloudinary · ShadCN UI | ✅ Live |
+| **[Shiplog](https://shiplog.usersynax.dev/)** | Your beautiful single page developer profile, manage and showcase your progress | Next.js · MongoDB · Cloudinary · ShadCN UI | ✅ Live |
 
 </div>
 
