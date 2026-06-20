@@ -2,7 +2,7 @@
 
 <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/usersynax.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usersynax.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usersynax.me)
 [![CampusZen Live](https://img.shields.io/badge/CampusZen_Live-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://campuszen.tech)
 [![Telegram](https://img.shields.io/badge/@user__synax-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user_synax)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user.__.ayush)
