@@ -22,14 +22,38 @@
 
 ``` ts
 const ayush = {
-  role     : "Full Stack Dev + Security Learner",
+  role: "Full Stack Developer & Security Learner",
   location: "Delhi, India",
-  stack    : ["Next.js 15", "MongoDB", "shadcn/ui", "Tailwind"],
-  building: "CampusZen — verified student social network and synax-ecosystem [ synax formed from syntax 😁",
-  learning : ["TypeScript", "PostgreSQL", "System Design"],
-  security : ["PortSwigger", "OWASP Top 10", "CTFs", "eJPT planned"],
-  openTo   : "Internships · Collabs · Interesting problems",
-}
+
+  stack: [
+    "Next.js",
+    "MongoDB",
+    "Tailwind CSS",
+    "shadcn/ui"
+  ],
+
+  building:
+    "CampusZen — a verified student social network within the Synax ecosystem (Synax comes from 'Syntax').",
+
+  learning: [
+    "TypeScript",
+    "PostgreSQL",
+    "System Design"
+  ],
+
+  security: [
+    "PortSwigger",
+    "OWASP Top 10",
+    "CTFs",
+    "eJPT (planned)"
+  ],
+
+  openTo: [
+    "Internships",
+    "Collaborations",
+    "Interesting Problems"
+  ]
+};
 ```
 
 - 🔭 &nbsp;Founder @ **[CampusZen](https://campuszen.tech)** — live, real users, built solo
