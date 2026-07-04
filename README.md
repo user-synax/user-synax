@@ -10,6 +10,13 @@
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/1159346572195274842)
 [![campusZen](https://img.shields.io/badge/campuszen-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://campuszen.tech/profile/ayush)
 
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Delhi%2C+India;Building+CampusZen+solo;Self-taught+%7C+No+degree+%7C+Just+shipped+things;Learning+AppSec+%7C+PortSwigger+%7C+OWASP)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,9 +63,22 @@ const ayush = {
 };
 ```
 
+**`> nmap -sV ~/ayush --appsec`**
+
+```bash
+PORT      STATE     SERVICE
+80/tcp    open      web-appsec        (OWASP Top 10)
+443/tcp   open      burp-suite        (manual testing)
+8080/tcp  open      ctf-platforms     (TryHackMe / HTB)
+31337/tcp filtered  bug-bounty        (in progress)
+
+Scan target: understanding real-world web vulnerabilities as a developer
+```
+
 - 🔭 &nbsp;Founder @ **[CampusZen](https://campuszen.tech)** — live, real users, built solo
 - 🛡️ &nbsp;Learning AppSec: PortSwigger Academy · OWASP · Kali Linux · Burp Suite
 - 🌱 &nbsp;Currently: TypeScript · PostgreSQL · System Design
+- 🇮🇳 &nbsp;Proudly building from Delhi, India
 - 💡 &nbsp;Self-taught. No degree. Just shipped things.
 
 <br clear="right"/>
@@ -107,6 +127,13 @@ const ayush = {
 **— Learning —**
 
 [![Learning](https://skillicons.dev/icons?i=ts,postgres,redis,aws,go&theme=dark&perline=5)](https://skillicons.dev)
+
+**— Cybersecurity —**
+
+[![Security](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Security](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-top-ten/)
+[![Security](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/web-security)
+[![Security](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 
 </div>
 
@@ -161,4 +188,12 @@ const ayush = {
 
 <div align="center">
 <sub><b>self-taught · solo builder · delhi, india · open to internships and collabs</b></sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=user-synax&label=Profile%20Views&color=FF9933&style=for-the-badge)
+
 </div>
