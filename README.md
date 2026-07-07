@@ -1,6 +1,8 @@
 
 
-<img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
+<!-- <img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" /> -->
+<img width="100%" height="50%" alt="gitcity-user-synax-landscape" src="https://github.com/user-attachments/assets/60b65d25-4498-465f-8e28-dfaf5e06694c" />
+
 
 <div align="center">
  
