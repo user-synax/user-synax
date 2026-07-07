@@ -1,8 +1,6 @@
 
 
-<!-- <img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" /> -->
-<img width="100%" height="50%" alt="gitcity-user-synax-landscape" src="https://github.com/user-attachments/assets/60b65d25-4498-465f-8e28-dfaf5e06694c" />
-
+<img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
 
 <div align="center">
  
@@ -18,6 +16,8 @@
 
 <br/>
 
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Delhi%2C+India;Building+CampusZen+solo;Self-taught+%7C+No+degree+%7C+Just+shipped+things;Learning+AppSec+%7C+PortSwigger+%7C+OWASP)](https://git.io/typing-svg)
@@ -27,6 +27,9 @@
 <br/>
 
 ---
+
+<img width="100%" height="50%" alt="gitcity-user-synax-landscape" src="https://github.com/user-attachments/assets/60b65d25-4498-465f-8e28-dfaf5e06694c" />
+
 
 
 **`> whoami`**
@@ -178,6 +181,9 @@ Scan target: understanding real-world web vulnerabilities as a developer
 
 ---
 
+
+
+
 <div align="center">
 
 <picture>
@@ -201,3 +207,5 @@ Scan target: understanding real-world web vulnerabilities as a developer
 ![Profile Views](https://komarev.com/ghpvc/?username=user-synax&label=Profile%20Views&color=FF9933&style=for-the-badge)
 
 </div>
+
+
