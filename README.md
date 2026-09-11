@@ -99,7 +99,7 @@ Scan target: understanding real-world web vulnerabilities as a developer
 | Project | What it does | Stack | Status |
 |---|---|---|---|
 | **[CampusZen](https://campuszen.tech)** | Verified student social network for India. College email + ID card verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
-| **[synax-docs](https://github.com/user-synax/synax-docs)** | Real-time collaborative doc editor. Multiplayer editing, presence awareness, persistent sync via dedicated Hocuspocus Node.js server | Next.js · Tiptap · Yjs · Hocuspocus · MongoDB | 🔨 WIP |
+| **[Kivo](https://kivo.usersynax.dev)** |Kivo - Chat your way | Kivo is a chat application that allows you to communicate with your friends | With Tons of Customization | Beta Version | Next.js · Socket · Express · Node · MongoDB | ✅ Live |
 | **[KitMint](https://kitmint.vercel.app)** | AI startup brand kit generator. Input your idea → get name, palette, typography, logo concept in seconds | Next.js · Groq · Tailwind · shadcn/ui | 🔨 WIP |
 | **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical doc translator for Indian patients. Upload prescription → plain language explanation in EN/HI | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
 | **[Couple Vault](https://couple-vault.vercel.app/)** | Private memory vault for couples. Media uploads, encrypted access, Cloudinary signed URLs | Next.js · MongoDB · Cloudinary | ✅ Live |
