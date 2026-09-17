@@ -1,11 +1,9 @@
-                
- 
 <img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
 
 <div align="center">
- 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usersynax.me)
-[![CampusZen Live](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/User_Synax)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/User_Synax)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user_synax)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user.__.ayush)
 [![Blue Sky](https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/user-synax.bsky.social)
@@ -16,11 +14,9 @@
 
 <br/>
 
-
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Delhi%2C+India;Building+CampusZen+solo;Self-taught+%7C+No+degree+%7C+Just+shipped+things;Learning+AppSec+%7C+PortSwigger+%7C+OWASP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Delhi%2C+India;Building+CampusZen+%26+Nox;Self-taught+%7C+No+degree+%7C+Just+shipped+things;Learning+AppSec+%7C+PortSwigger+%7C+OWASP)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,33 +24,34 @@
 
 ---
 
-
-
 **`> whoami`**
 
-``` ts
+```ts
 const ayush = {
-  role: "Full Stack Developer & Security Learner",
+  role: "Full Stack Developer & AppSec Learner",
   location: "Delhi, India",
 
   stack: [
     "Next.js",
+    "TypeScript",
     "MongoDB",
     "Tailwind CSS",
     "shadcn/ui"
   ],
 
-  building:
-    "CampusZen — a verified student social network within the Synax ecosystem (Synax comes from 'Syntax').",
+  building: [
+    "CampusZen — verified student social network (Synax ecosystem)",
+    "Nox — developer debugging practice & competition platform"
+  ],
 
   learning: [
-    "TypeScript",
     "PostgreSQL",
+    "Redis",
     "System Design"
   ],
 
   security: [
-    "PortSwigger",
+    "PortSwigger Academy",
     "OWASP Top 10",
     "CTFs",
     "eJPT (planned)"
@@ -81,8 +78,9 @@ Scan target: understanding real-world web vulnerabilities as a developer
 ```
 
 - 🔭 &nbsp;Founder @ **[CampusZen](https://campuszen.tech)** — live, real users, built solo
+- 🛠️ &nbsp;Building **Nox** — a debugging practice & competition platform (nox.synax.me)
 - 🛡️ &nbsp;Learning AppSec: PortSwigger Academy · OWASP · Kali Linux · Burp Suite
-- 🌱 &nbsp;Currently: TypeScript · PostgreSQL · System Design
+- 🌱 &nbsp;Currently: PostgreSQL · Redis · System Design
 - 🇮🇳 &nbsp;Proudly building from Delhi, India
 - 💡 &nbsp;Self-taught. No degree. Just shipped things.
 
@@ -98,14 +96,15 @@ Scan target: understanding real-world web vulnerabilities as a developer
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| **[CampusZen](https://campuszen.tech)** | Verified student social network for India. College email + ID card verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
-| **[Kivo](https://kivo.usersynax.dev)** | Kivo is a chat application that allows you to communicate with your friends - With Tons of Customization - Beta Version | Next.js · Socket · Express · Node · MongoDB | ✅ Live |
-| **[KitMint](https://kitmint.vercel.app)** | AI startup brand kit generator. Input your idea → get name, palette, typography, logo concept in seconds | Next.js · Groq · Tailwind · shadcn/ui | 🔨 WIP |
-| **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical doc translator for Indian patients. Upload prescription → plain language explanation in EN/HI | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
-| **[Couple Vault](https://couple-vault.vercel.app/)** | Private memory vault for couples. Media uploads, encrypted access, Cloudinary signed URLs | Next.js · MongoDB · Cloudinary | ✅ Live |
-| **[SwipeMeme](https://swipe-meme.vercel.app/)** | It's like Tinder, but instead of profiles, you will swipe memes| Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
-| **[snapbio](https://snapbio.usersynax.dev/)** | A single bio links web Page for all of your social media accounts| Next.js · MongoDB · Cloudinary · ShadCN UI | ✅ Live |
-| **[Shiplog](https://shiplog.usersynax.dev/)** | Your beautiful single page developer profile, manage and showcase your progress | Next.js · MongoDB · Cloudinary · ShadCN UI | ✅ Live |
+| **[CampusZen](https://campuszen.tech)** | Verified student social network for India — college email + ID verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
+| **[Kivo](https://kivo.usersynax.dev)** | Realtime chat platform — WhatsApp-style DMs/groups + Discord-style Spaces/Channels, voice & video calls, OAuth, Kivo Plus, custom emoji, status & polls | Next.js · Socket.IO · Express · MongoDB · LiveKit | ✅ Live (Beta) |
+| **[Nox](https://nox.synax.me)** | Developer debugging practice & competition platform — fix real broken code, verify with automated tests, climb the leaderboard | Next.js · TypeScript · MongoDB · Socket.IO · Redis | 🚧 Building |
+| **[CPGRAMS Redesign](https://cpgram.usersynax.dev)** | Hackathon submission — reimagined UX for India's public grievance portal (pgportal.gov.in), built with a teammate | Next.js | 🏁 Submitted |
+| **[KitMint](https://kitmint.vercel.app)** | AI startup brand kit generator — idea in, name + palette + typography + logo concept out | Next.js · Groq · Tailwind · shadcn/ui | 🔨 WIP |
+| **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical document translator for Indian patients — prescription in, plain-language EN/HI explanation out | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
+| **[Couple Vault](https://couple-vault.vercel.app/)** | Private, encrypted memory vault for couples | Next.js · MongoDB · Cloudinary | ✅ Live |
+| **[SwipeMeme](https://swipe-meme.vercel.app/)** | Tinder-style swiping, but for memes | Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
+| **[Shiplog](https://shiplog.usersynax.dev/)** | Single-page developer profile to showcase your progress | Next.js · MongoDB · Cloudinary · shadcn/ui | ✅ Live |
 
 </div>
 
@@ -131,7 +130,7 @@ Scan target: understanding real-world web vulnerabilities as a developer
 
 **— Learning —**
 
-[![Learning](https://skillicons.dev/icons?i=ts,postgres,redis,aws,go&theme=dark&perline=5)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=postgres,redis,aws,go&theme=dark&perline=4)](https://skillicons.dev)
 
 **— Cybersecurity —**
 
@@ -145,11 +144,9 @@ Scan target: understanding real-world web vulnerabilities as a developer
 <br>
 <hr>
 
-
 **`> GSSoC 2026`**
 <div align="center">
 
-  
   <img width="150" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/b3b442ad-646a-4c82-9077-293ac0e0b881" />
   <img width="150" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/6aeffccf-b746-43cf-8961-403e4f1fe84e" />
   <img width="150" alt="gssoc-badge-discord_verified" src="https://github.com/user-attachments/assets/95f7f17a-4acd-479f-bce2-39e5af92c8a0" />
@@ -179,9 +176,6 @@ Scan target: understanding real-world web vulnerabilities as a developer
 
 ---
 
-
-
-
 <div align="center">
 
 <picture>
@@ -205,5 +199,3 @@ Scan target: understanding real-world web vulnerabilities as a developer
 ![Profile Views](https://komarev.com/ghpvc/?username=user-synax&label=Profile%20Views&color=FF9933&style=for-the-badge)
 
 </div>
-
-
