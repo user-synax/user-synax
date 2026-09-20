@@ -186,6 +186,26 @@ Scan target: understanding real-world web vulnerabilities as a developer
 
 </div>
 
+<div align="center">
+  <a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
+ <picture>
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=user-synax&theme=dark" media="(prefers-color-scheme: dark)" width="846" height="164" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=user-synax&theme=light" media="(prefers-color-scheme: light)" width="846" height="164" style="height:auto" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=user-synax&theme=light" width="846" height="164" style="height:auto" />
+</picture>
+</a>
+</div>
+
+<div align="center">
+  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=user-synax&color=ff2d95&theme=dark&mode=mono&preset=githuborange&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=user-synax&color=ff2d95&theme=light&mode=mono&preset=githuborange&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=user-synax&color=ff2d95&theme=light&mode=mono&preset=githuborange&animate=true&emptyColor=filled" width="846" height="164" style="height:auto" />
+  </picture>
+</a>
+</div>
+
 ---
 
 <div align="center">
