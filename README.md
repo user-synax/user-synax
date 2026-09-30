@@ -98,13 +98,7 @@ Scan target: understanding real-world web vulnerabilities as a developer
 |---|---|---|---|
 | **[CampusZen](https://campuszen.tech)** | Verified student social network for India — college email + ID verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
 | **[Kivo](https://kivo.usersynax.dev)** | Realtime chat platform — WhatsApp-style DMs/groups + Discord-style Spaces/Channels, voice & video calls, OAuth, Kivo Plus, custom emoji, status & polls | Next.js · Socket.IO · Express · MongoDB · LiveKit | ✅ Live (Beta) |
-| **[Nox](https://nox.synax.me)** | Developer debugging practice & competition platform — fix real broken code, verify with automated tests, climb the leaderboard | Next.js · TypeScript · MongoDB · Socket.IO · Redis | 🚧 Building |
-| **[CPGRAMS Redesign](https://cpgram.usersynax.dev)** | Hackathon submission — reimagined UX for India's public grievance portal (pgportal.gov.in), built with a teammate | Next.js | 🏁 Submitted |
-| **[KitMint](https://kitmint.vercel.app)** | AI startup brand kit generator — idea in, name + palette + typography + logo concept out | Next.js · Groq · Tailwind · shadcn/ui | 🔨 WIP |
-| **[MedBridge](https://med-bridge-ai.netlify.app)** | AI medical document translator for Indian patients — prescription in, plain-language EN/HI explanation out | React · TypeScript · Gemini 1.5 Flash | ✅ Live |
-| **[Couple Vault](https://couple-vault.vercel.app/)** | Private, encrypted memory vault for couples | Next.js · MongoDB · Cloudinary | ✅ Live |
-| **[SwipeMeme](https://swipe-meme.vercel.app/)** | Tinder-style swiping, but for memes | Next.js · MongoDB · Cloudinary · Reddit Meme API | ✅ Live |
-| **[Shiplog](https://shiplog.usersynax.dev/)** | Single-page developer profile to showcase your progress | Next.js · MongoDB · Cloudinary · shadcn/ui | ✅ Live |
+| **[Nox](https://nox.synax.me)** | Developer debugging practice & competition platform — fix real broken code, verify with automated tests, climb the leaderboard | Next.js · TypeScript · MongoDB · Socket.IO · Redis | 🚧 Live - Alpha |
 
 </div>
 
