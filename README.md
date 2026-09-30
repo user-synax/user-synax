@@ -9,7 +9,10 @@
 [![Blue Sky](https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/user-synax.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/1159346572195274842)
 [![campusZen](https://img.shields.io/badge/campuszen-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://campuszen.tech/profile/ayush)
-[![Kivo](https://img.shields.io/badge/Kivo-000000?style=for-the-badge&logo=chat&logoColor=white)](https://kivo.usersynax.dev/u/ayush)
+
+<div align="center">
+  <img src="https://www.codewars.com/users/user-synax/badges/large" />
+</div>
 
 </div>
 
