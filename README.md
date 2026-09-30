@@ -2,13 +2,14 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usersynax.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://synax.me)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/User_Synax)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user_synax)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user.__.ayush)
 [![Blue Sky](https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/user-synax.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/1159346572195274842)
 [![campusZen](https://img.shields.io/badge/campuszen-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://campuszen.tech/profile/ayush)
+[![Kivo](https://img.shields.io/badge/Kivo-000000?style=for-the-badge&logo=chat&logoColor=white)](https://kivo.usersynax.dev/u/ayush)
 
 </div>
 
