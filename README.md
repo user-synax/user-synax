@@ -11,7 +11,7 @@
 [![campusZen](https://img.shields.io/badge/campuszen-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://campuszen.tech/profile/ayush)
 
 <div align="center">
-  <img src="https://www.codewars.com/users/user-synax/badges/large" />
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/user-synax?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </div>
 
 </div>
