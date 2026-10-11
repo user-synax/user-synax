@@ -175,6 +175,11 @@ Scan target: understanding real-world web vulnerabilities as a developer
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=user-synax&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
+
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/user-synax/user-synax/output/github-contribution-grid-snake-dark.svg">
