@@ -102,7 +102,6 @@ Scan target: understanding real-world web vulnerabilities as a developer
 |---|---|---|---|
 | **[CampusZen](https://campuszen.tech)** | Verified student social network for India — college email + ID verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
 | **[Kivo](https://kivo.usersynax.dev)** | Realtime chat platform — WhatsApp-style DMs/groups + Discord-style Spaces/Channels, voice & video calls, OAuth, Kivo Plus, custom emoji, status & polls | Next.js · Socket.IO · Express · MongoDB · LiveKit | ✅ Live (Beta) |
-| **[Nox](https://nox.synax.me)** | Developer debugging practice & competition platform — fix real broken code, verify with automated tests, climb the leaderboard | Next.js · TypeScript · MongoDB · Socket.IO · Redis | 🚧 Live - Alpha |
 
 </div>
 
