@@ -1,4 +1,6 @@
-    <img width="100%" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" />
+<div align="center">
+<img width="946" height="284" alt="download" src="https://github.com/user-attachments/assets/525c4599-2fe1-48c2-9ca7-804b453bada2" />
+</div>
 
 <div align="center">
 
