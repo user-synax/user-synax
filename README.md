@@ -1,5 +1,5 @@
 <div align="center">
-<img width="946" height="284" alt="download" src="https://github.com/user-attachments/assets/525c4599-2fe1-48c2-9ca7-804b453bada2" />
+  <img width="640" height="360" alt="KIROKAZE" src="https://github.com/user-attachments/assets/acccea02-dffc-4026-99c5-213e7098a475" />
 </div>
 
 <div align="center">
