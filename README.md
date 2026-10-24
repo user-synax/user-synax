@@ -41,19 +41,21 @@ const ayush = {
     "Next.js",
     "TypeScript",
     "MongoDB",
-    "Tailwind CSS",
-    "shadcn/ui"
+    "Bun",
+    "Hono",
+    "Opencode",
+    "Claude Code CLI",
   ],
 
   building: [
     "CampusZen — verified student social network (Synax ecosystem)",
-    "Nox — developer debugging practice & competition platform"
+    "Kivo — Real-time web chat application (WhatsApp + Discord)"
   ],
 
   learning: [
-    "PostgreSQL",
-    "Redis",
-    "System Design"
+    "System Design",
+    "Burp Suite",
+    "AI-driven development."
   ],
 
   security: [
@@ -84,11 +86,11 @@ Scan target: understanding real-world web vulnerabilities as a developer
 ```
 
 - 🔭 &nbsp;Founder @ **[CampusZen](https://campuszen.tech)** — live, real users, built solo
-- 🛠️ &nbsp;Building **Nox** — a debugging practice & competition platform (nox.synax.me)
-- 🛡️ &nbsp;Learning AppSec: PortSwigger Academy · OWASP · Kali Linux · Burp Suite
-- 🌱 &nbsp;Currently: PostgreSQL · Redis · System Design
-- 🇮🇳 &nbsp;Proudly building from Delhi, India
-- 💡 &nbsp;Self-taught. No degree. Just shipped things.
+- 🛠️ &nbsp; Building **Kivo** — a real-time web chat app for small groups and friends.
+- 🛡️ &nbsp; Learning AppSec: PortSwigger Academy · OWASP · Kali Linux · Burp Suite
+- 🌱 &nbsp; Currently: System Design · Agentic Coding
+- 🇮🇳 &nbsp; Proudly building from Delhi, India
+- 💡 &nbsp; Self-taught. No degree. Just shipped things.
 
 <br clear="right"/>
 
@@ -103,7 +105,7 @@ Scan target: understanding real-world web vulnerabilities as a developer
 | Project | What it does | Stack | Status |
 |---|---|---|---|
 | **[CampusZen](https://campuszen.tech)** | Verified student social network for India — college email + ID verification, real-time feeds, Campus Coins, communities, PWA + Android APK | Next.js · MongoDB · Pusher · Cloudinary · JWT | ✅ Live |
-| **[Kivo](https://kivo.usersynax.dev)** | Realtime chat platform — WhatsApp-style DMs/groups + Discord-style Spaces/Channels, voice & video calls, OAuth, Kivo Plus, custom emoji, status & polls | Next.js · Socket.IO · Express · MongoDB · LiveKit | ✅ Live (Beta) |
+| **[Kivo](https://kivo.usersynax.dev)** | Real-time chat platform — WhatsApp-style DMs/groups + Discord-style Spaces/Channels, voice & video calls, OAuth, Kivo Plus, custom emoji, status & polls | Next.js · Socket.IO · Express · MongoDB · LiveKit | ✅ Live (Beta) |
 
 </div>
 
