@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Delhi%2C+India;Building+CampusZen+%26+Nox;Self-taught+%7C+No+degree+%7C+Just+shipped+things;Learning+AppSec+%7C+PortSwigger+%7C+OWASP)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EEE3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+real+world+products;Founder+%26+Developer+of+campuszen;Based+in+India" alt="Typing SVG" /></a>
 
 </div>
 
