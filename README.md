@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user_synax)
 [![Blue Sky](https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/user-synax.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/1159346572195274842)
-[![campusZen](https://img.shields.io/badge/campuszen-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://campuszen.tech/profile/ayush)
+[![campusZen](https://img.shields.io/badge/campuszen-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://campuszen.tech/u/usersynax)
 
 <div align="center">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/user-synax?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
